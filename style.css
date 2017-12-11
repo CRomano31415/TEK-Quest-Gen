@@ -1,0 +1,9 @@
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+h5 {
+	font-weight: bold;
+}
